@@ -1,5 +1,5 @@
 import prompt from "prompt-sync";
-import * as calculator from "./calculator";
+import calculator from "./calculator";
 
 const promptSync = prompt({});
 
